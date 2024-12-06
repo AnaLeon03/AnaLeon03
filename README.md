@@ -1,7 +1,7 @@
 ## Hi there 👋
-Soy Ana León. 
-🧪 Estudiante de Biología en la UCO.
-👩‍⚕️ En un futuro me gustaría dedicarme a la reproducción asistida.
+Soy Ana León   
+🧪 Estudiante de Biología en la UCO  
+👩‍⚕️ En un futuro me gustaría dedicarme a la reproducción asistida  
 
 <!--
 **AnaLeon03/AnaLeon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
